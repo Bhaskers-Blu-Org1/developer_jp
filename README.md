@@ -1,13 +1,13 @@
-## IBM Developer Feedback in Japanese ##
+## IBM Developer フィードバック ##
 
-Use this repository to ask questions or leave feedback about IBM Developer and its content, community, and various initiatives offered in Japanese.
+このリポジトリーを使って、日本語で提供されている IBM Developer のコンテンツ、コミュニティー、さまざまなイニシアチブについて質問したり、フィードバックを残すことができます。
 
-To ask a question or leave feedback, simply open an issue; a member of the IBM Developer team will respond.
+issue を作成することで質問をしたりフィードバックを残すことができ、それに IBM Developer チームのメンバーが回答します。
 
-Note This repository is designed as a public forum for the exchange of information about IBM Developer and its related initiatives, activities, and content. Any comments you provide must be respectful of the audience and team members and adhere to GitHub's [community guidelines](https://help.github.com/en/articles/github-community-guidelines). 
+注: このリポジトリーは、IBM Developer とその関連イニシアチブ、活動、およびコンテンツに関する情報交換のための公開フォーラムとして設計されています。提供するコメントは、利用者とチームメンバーを尊重し、GitHub の[コミュニティガイドライン](https://help.github.com/ja/articles/github-community-guidelines)に従いましょう。
 
-Any inappropriate content will be removed immediately and the user will be reported to GitHub for further action.
+不適切なコンテンツはすぐに削除され、ユーザー情報は GitHub に報告されます。
 
-[Open a new issue](https://github.com/IBM/developer_jp/issues/new)
+[issue を作成する](https://github.com/IBM/developer_jp/issues/new)
 
-[Review existing issues](https://github.com/IBM/developer_jp/issues)
+[issue を確認する](https://github.com/IBM/developer_jp/issues)
